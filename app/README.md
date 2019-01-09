@@ -1,5 +1,5 @@
 # app
-test
+
 > A Mpvue project
 
 ## Build Setup
