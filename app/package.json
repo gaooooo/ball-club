@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "mpvueTemplateProjectVersion": "0.0.1",
   "description": "A Mpvue project",
-  "author": "gaoxin <gaoxin@360.net>",
+  "author": "gaoxin111",
   "private": true,
   "scripts": {
     "dev:wx": "node build/dev-server.js wx",
